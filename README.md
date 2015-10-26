@@ -20,7 +20,7 @@ It is a direct port of the amazing [react workflow](https://github.com/cesarandr
 To use it, just clone this repo and install the npm dependencies:
 
 ```shell
-$ git clone https://github.com/Foxandxss/angular-webpack-workflow my_app
+$ git clone https://github.com/samuelcastro/webpack_angular my_app
 $ cd my_app
 $ npm install
 ```
