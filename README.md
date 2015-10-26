@@ -36,6 +36,4 @@ All scripts are run with `npm run [script]`, for example: `npm run test`.
 
 See what each script does by looking at the `scripts` section in [package.json](./package.json).
 
-## Example
 
-To see how to structure an Angular 1.x application using this workflow, please check [this demo](https://github.com/Foxandxss/GermanWords-ng1-webpack).
